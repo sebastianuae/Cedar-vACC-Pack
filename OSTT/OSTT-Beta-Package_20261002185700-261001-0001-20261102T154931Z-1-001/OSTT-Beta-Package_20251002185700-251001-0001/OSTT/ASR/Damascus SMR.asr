@@ -1,0 +1,85 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:OSTT Ground\101:freetext
+Free Text:OSTT Ground\102:freetext
+Free Text:OSTT Ground\103:freetext
+Free Text:OSTT Ground\104:freetext
+Free Text:OSTT Ground\105:freetext
+Free Text:OSTT Ground\106:freetext
+Free Text:OSTT Ground\107:freetext
+Free Text:OSTT Ground\108:freetext
+Free Text:OSTT Ground\109:freetext
+Free Text:OSTT Ground\110:freetext
+Free Text:OSTT Ground\112:freetext
+Free Text:OSTT Ground\201:freetext
+Free Text:OSTT Ground\202:freetext
+Free Text:OSTT Ground\203:freetext
+Free Text:OSTT Ground\204:freetext
+Free Text:OSTT Ground\205:freetext
+Free Text:OSTT Ground\301:freetext
+Free Text:OSTT Ground\302:freetext
+Free Text:OSTT Ground\303:freetext
+Free Text:OSTT Ground\401:freetext
+Free Text:OSTT Ground\402:freetext
+Free Text:OSTT Ground\404:freetext
+Free Text:OSTT Ground\405:freetext
+Free Text:OSTT Ground\406:freetext
+Free Text:OSTT Ground\409:freetext
+Free Text:OSTT Ground\410:freetext
+Free Text:OSTT Ground\601:freetext
+Free Text:OSTT Ground\602:freetext
+Free Text:OSTT Ground\603:freetext
+Free Text:OSTT Ground\604:freetext
+Free Text:OSTT Ground\605:freetext
+Free Text:OSTT Ground\A:freetext
+Free Text:OSTT Ground\A1:freetext
+Free Text:OSTT Ground\Apron 5 - Maintenance:freetext
+Free Text:OSTT Ground\B:freetext
+Free Text:OSTT Ground\B1:freetext
+Free Text:OSTT Ground\C:freetext
+Free Text:OSTT Ground\C1:freetext
+Free Text:OSTT Ground\Cargo:freetext
+Free Text:OSTT Ground\D:freetext
+Free Text:OSTT Ground\E:freetext
+Free Text:OSTT Ground\F:freetext
+Free Text:OSTT Ground\G:freetext
+Free Text:OSTT Ground\H:freetext
+Free Text:OSTT Ground\J:freetext
+Free Text:OSTT Ground\K:freetext
+Free Text:OSTT Ground\L:freetext
+Free Text:OSTT Ground\M:freetext
+Free Text:OSTT Ground\N:freetext
+Free Text:OSTT Ground\P:freetext
+Free Text:OSTT Ground\Parking Area J:freetext
+Free Text:OSTT Ground\Q:freetext
+Free Text:OSTT Ground\R:freetext
+Free Text:OSTT Ground\S:freetext
+Free Text:OSTT Ground\T:freetext
+Free Text:OSTT Ground\Terminal:freetext
+Free Text:OSTT Ground\U:freetext
+Free Text:OSTT Ground\V:freetext
+Free Text:OSTT Ground\Y:freetext
+Free Text:OSTT Ground\Z:freetext
+Geo:OSDI Groundlayout OSDI:
+Geo:OSTT Landmark Coastline:
+Regions:OSDI Airport:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:41.50000
+TAGFAMILY:GRplugin
+WINDOWAREA:33.388568:36.449176:33.432876:36.577489
+PLUGIN:Ground Radar plugin:AirportElevation:2020
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:OSDI

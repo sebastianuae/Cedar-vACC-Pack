@@ -1,0 +1,11 @@
+** Damascus OSTT **
+OSTT_CTR Damascus Radar
+OSDI_APP Damascus Control
+OSDI_TWR Damascus Tower
+OSDI_GND Damascus Ground
+OSAP_APP Aleppo Radar
+OSAP_TWR Aleppo Tower
+OSAP_GND Aleppo Ground
+OSDZ_TWR Deir Zzor Tower
+OSLK_APP Damascus Control
+OSLK_TWR Latakia Tower

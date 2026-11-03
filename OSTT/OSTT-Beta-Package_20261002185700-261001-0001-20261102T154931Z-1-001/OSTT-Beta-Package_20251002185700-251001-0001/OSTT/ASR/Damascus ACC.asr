@@ -1,0 +1,70 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC high boundary:LCCC Nicosia:
+ARTCC high boundary:LLLL Tel Aviv:
+ARTCC high boundary:OLBB Beirut:
+ARTCC high boundary:ORBB Baghdad:
+ARTCC high boundary:OSTT Damascus:
+Geo:OSTT Landmark Coastline:
+Runways:OSAP 09-27:centerline
+Runways:OSAP 09-27:extended centerline 1
+Runways:OSAP 09-27:extended centerline 1 left ticks
+Runways:OSAP 09-27:extended centerline 1 right ticks
+Runways:OSAP 09-27:extended centerline 2
+Runways:OSAP 09-27:extended centerline 2 left ticks
+Runways:OSAP 09-27:extended centerline 2 right ticks
+Runways:OSDI 05L-23R:centerline
+Runways:OSDI 05L-23R:extended centerline 1
+Runways:OSDI 05L-23R:extended centerline 1 left ticks
+Runways:OSDI 05L-23R:extended centerline 1 right ticks
+Runways:OSDI 05L-23R:extended centerline 2
+Runways:OSDI 05L-23R:extended centerline 2 left ticks
+Runways:OSDI 05L-23R:extended centerline 2 right ticks
+Runways:OSDI 05R-23L:centerline
+Runways:OSDI 05R-23L:extended centerline 1
+Runways:OSDI 05R-23L:extended centerline 1 left ticks
+Runways:OSDI 05R-23L:extended centerline 1 right ticks
+Runways:OSDI 05R-23L:extended centerline 2
+Runways:OSDI 05R-23L:extended centerline 2 left ticks
+Runways:OSDI 05R-23L:extended centerline 2 right ticks
+Runways:OSDZ 10-28:centerline
+Runways:OSDZ 10-28:extended centerline 1
+Runways:OSDZ 10-28:extended centerline 1 left ticks
+Runways:OSDZ 10-28:extended centerline 1 right ticks
+Runways:OSDZ 10-28:extended centerline 2
+Runways:OSDZ 10-28:extended centerline 2 left ticks
+Runways:OSDZ 10-28:extended centerline 2 right ticks
+Runways:OSKL 03-21:centerline
+Runways:OSKL 03-21:extended centerline 1
+Runways:OSKL 03-21:extended centerline 1 left ticks
+Runways:OSKL 03-21:extended centerline 1 right ticks
+Runways:OSKL 03-21:extended centerline 2
+Runways:OSKL 03-21:extended centerline 2 left ticks
+Runways:OSKL 03-21:extended centerline 2 right ticks
+Runways:OSLK 17L-35R:centerline
+Runways:OSLK 17L-35R:extended centerline 1
+Runways:OSLK 17L-35R:extended centerline 1 left ticks
+Runways:OSLK 17L-35R:extended centerline 2
+Runways:OSLK 17L-35R:extended centerline 2 right ticks
+Runways:OSLK 17R-35L:centerline
+Runways:OSLK 17R-35L:extended centerline 1
+Runways:OSLK 17R-35L:extended centerline 1 right ticks
+Runways:OSLK 17R-35L:extended centerline 2
+Runways:OSLK 17R-35L:extended centerline 2 left ticks
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky
+WINDOWAREA:28.159056:18.823883:41.665749:57.938518

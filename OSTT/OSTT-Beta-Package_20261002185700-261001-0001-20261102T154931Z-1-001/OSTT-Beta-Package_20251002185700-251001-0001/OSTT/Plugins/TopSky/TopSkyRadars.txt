@@ -1,0 +1,30 @@
+// Radar Data
+// For Baghdad
+
+// ===================================================================================
+// BAGHDAD FIR - ORBB
+// ===================================================================================
+
+// Kirkuk MSSR
+RADAR:Kirkuk
+POSITIONS:ORKK:ORBB
+LOCATION:N035.28.06.000:E044.19.49.000
+ALTITUDE:62
+RANGE:0:200
+CEILING:66000
+
+// Baghdad MSSR
+RADAR:Baghdad
+POSITIONS:ORBI:ORBB
+LOCATION:N033.15.49.000:E044.13.33.000
+ALTITUDE:62
+RANGE:0:200
+CEILING:66000
+
+// Bashrah MSSR
+RADAR:Bashrah
+POSITIONS:ORMM:ORBB
+LOCATION:N030.32.51.000:E047.39.28.000
+ALTITUDE:62
+RANGE:0:200
+CEILING:66000

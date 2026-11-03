@@ -1,0 +1,42 @@
+PROFILE
+PROFILE:<Initials>_OBS:100:0
+ATIS2:Levant vACC Observer
+ATIS3:Join the discord server discord.gg/PecYZgNkQx
+ATIS4:Welcome to the Levant vACC
+PROFILE:OSTT_CTR:400:6
+ATIS2:"Damascus Control"
+ATIS3:Covering the entire Damascus FIR and Beirut FIR FL195+ when offline
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+PROFILE:OSDI_APP:100:5
+ATIS2:"Damascus Control"
+ATIS3:Covering the Damascus TMA
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+PROFILE:OSAP_APP:100:5
+ATIS2:"Aleppo Radar"
+ATIS3:Covering the Aleppo TMA
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+PROFILE:OSLK_APP:100:5
+ATIS2:"Damascus Control"
+ATIS3:Covering the Latakia TMA
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+PROFILE:OSDI_TWR:35:4
+ATIS2:"Damascus Tower"
+ATIS3:
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+PROFILE:OSAP_TWR:35:4
+ATIS2:"Aleppo Tower"
+ATIS3:
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+PROFILE:OSLK_TWR:35:4
+ATIS2:"Latakia Tower"
+ATIS3:
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+PROFILE:OSDI_GND:20:3
+ATIS2:"Damascus Ground"
+ATIS3:
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+PROFILE:OSAP_GND:20:3
+ATIS2:"Aleppo Ground"
+ATIS3:
+ATIS4:Welcome to the Levant vACC | Feedback - vats.im/cfb
+END

@@ -1,0 +1,12 @@
+// Restricted, Danger and Prohibited Areas
+// For Syria
+// Most airspaces are triggered by NOTAM
+// Permenant ones are ACTIVE:1 such as the uncontrolled airspace
+
+// ===================================================================================
+// DAMASCUS FIR - OSTT
+// ===================================================================================
+
+// Airspace Categories Definitions
+CATEGORYDEF:D:7:0:0:0:0:0:0:0:0:1:0
+CATEGORYDEF:DL:8:0:0:0:0:0:0:0:0:1:0

@@ -1,0 +1,6 @@
+// Baghdad Squawk Range
+// According to the AeroNav GNG
+
+// Baghdad FIR
+RANGE:5601:5677
+IFR
