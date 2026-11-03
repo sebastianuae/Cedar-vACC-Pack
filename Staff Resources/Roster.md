@@ -2,16 +2,18 @@
 
 ## Subdivisional Leadership
 
-| Name | Rating | vACC Role |
-| :--- | :--- | :--- |
-| Prantik Tikadar | S1 | Membership Director (ACCMSQ5) |
-| Subhayu Choudhuri | S1 | Events & Marketing Director (ACCMSQ6) |
-| Sebastian Delcroix | C1 | ATC Training Director (ACCMSQ3) |
-| Rayan Hassan | OBS | Technical Director (ACCMSQ7) |
-| Michael Milby | C1 | vACC Director (ACCMSQ1) |
+Below are the individuals who are certified as STAFF in the Mashriq vACC. Any member outside of this list does not hold an moderastional powers. Any updates in the staff team will reflect here.
+
+| Name | VATSIM CID | Rating | vACC Role |
+| :--- | :--- | :--- | :--- |
+| Prantik Tikadar | 1870443 | S1 | Membership Director (ACCMSQ5) |
+| Subhayu Choudhuri | 1813511 |  S1 | Events & Marketing Director (ACCMSQ6) |
+| Sebastian Delcroix | 1612239 | C1 | ATC Training Director (ACCMSQ3) |
+| Rayan Hassan | 1959075 | OBS | Technical Director (ACCMSQ7) |
+| Michael Milby | 1469693 | C1 | vACC Director (ACCMSQ1) |
 
 ## Other vACC Staff
 
-| Name | Rating | vACC Role |
-| :--- | :--- | :--- |
-| Ali | S2 | vACC Mentor |
+| Name | VATSIM CID | Rating | vACC Role |
+| :--- | :--- | :--- | :--- |
+| Ali | 1769122 | S2 | vACC Mentor |
