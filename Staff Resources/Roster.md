@@ -2,7 +2,8 @@
 
 ## Subdivisional Leadership
 
-Below are the individuals who are certified as STAFF in the Mashriq vACC. Any member outside of this list does not hold an moderastional powers. Any updates in the staff team will reflect here.
+> Below are the individuals who are certified as STAFF in the Mashriq vACC. Any member outside of this list does not hold an moderational powers. Any updates in the staff team will reflect here. Includes all the departmental directors.
+
 
 | Name | VATSIM CID | Rating | vACC Role |
 | :--- | :--- | :--- | :--- |
@@ -13,6 +14,8 @@ Below are the individuals who are certified as STAFF in the Mashriq vACC. Any me
 | Michael Milby | 1469693 | C1 | vACC Director (ACCMSQ1) |
 
 ## Other vACC Staff
+
+> Includes departmental team members of the vACC.
 
 | Name | VATSIM CID | Rating | vACC Role |
 | :--- | :--- | :--- | :--- |
