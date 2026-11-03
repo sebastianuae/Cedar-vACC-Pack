@@ -13,4 +13,5 @@
 ## Other vACC Staff
 
 | Name | Rating | vACC Role |
+| :--- | :--- | :--- |
 | Ali | S2 | vACC Mentor |
